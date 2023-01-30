@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9001,
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "thumbnail": "https://hindikhabar.com/wp-content/uploads/2022/04/arijit-singh.jpg"
+  },
+  {
+    "id": 8776,
+    "title": "Blue Eyes",
+    "artist": "Yo Yo Honey Singh",
+    "thumbnail": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/03/24/805361-yoyohoneysingh-032519.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Taare Zameen Par",
+    "artist": "Shankar Mahadevan",
+    "thumbnail": "https://itsezone.com/wp-content/uploads/2020/11/ghvj.jpg"
+  },
+  {
+    "id": 665,
+    "title": "Tu Hai",
+    "artist": "A. R. Rahman",
+    "thumbnail": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/08/15/Photos/RAHMAN--621x414.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Srivalli",
+    "artist": "Javed Ali",
+    "thumbnail": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1644913549.jpeg"
+  },
+  {
+    "id": 109,
+    "title": "Sunn Raha Hai",
+    "artist": "Shreya Ghoshal",
+    "thumbnail": "https://www.dailyexcelsior.com/wp-content/uploads/2016/10/812.jpg"
+  }
+]
