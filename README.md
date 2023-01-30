@@ -2,9 +2,6 @@
 A Simple web app to search music and create playlist, similar to Spotify
 
 
-Spotify Clone
-A Spotify Clone using React, Typescript, and Redux. Check it [live here](http://localhost:3000/).
-
 🎛 How it works
 The application has two pages: Home and Album. When Home is loaded it pulls data from the fake API (see below). Album page follows the same pattern except it gets the album title and thumbnail from Redux store.
 
